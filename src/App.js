@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>SPheat test reactJS</p>
+        <p>Second check</p>
       </header>
     </div>
   );
